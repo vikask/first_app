@@ -1,0 +1,10 @@
+DEPRECATION WARNING: You didn't set config.secret_key_base. Read the upgrade documentation to learn more about this new config option. (called from service at /home/vikas/.rvm/rubies/ruby-2.0.0-p247/lib/ruby/2.0.0/webrick/httpserver.rb:138)
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2013-09-12 18:47:43 +0530
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at 2013-09-12 18:47:47 +0530
+Processing by Rails::InfoController#properties as HTML
+  Rendered /home/vikas/.rvm/gems/ruby-2.0.0-p247/gems/railties-4.0.0/lib/rails/templates/rails/info/properties.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 69ms (Views: 34.5ms | ActiveRecord: 13.3ms)
